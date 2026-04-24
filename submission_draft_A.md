@@ -47,8 +47,8 @@ The highest-friction moment is **between inbound inquiry and confirmed booking**
 - lead data is not captured cleanly for remarketing or re-contact
 
 **Why now:**
-- AI phone and messaging products for SMBs are becoming commercially validated, showing that businesses are already willing to pay for automated lead handling and conversion tooling. Podium positions its AI Employee as a 24/7 sales and scheduling assistant for local businesses, Smith.ai sells AI receptionist plans, and OpenPhone includes AI-enabled business phone workflows. citeturn751355search1turn751355search2turn751355search15turn751355search0
-- Inbound lead volume is increasingly fragmented across calls, chat, social, and messaging apps, making manual handling harder for small teams. Podium explicitly markets AI for lead handling, customer communication, and appointment booking across local-business workflows. citeturn751355search4turn751355search1
+- AI phone and messaging products for SMBs are becoming commercially validated, showing that businesses are already willing to pay for automated lead handling and conversion tooling. Podium positions its AI Employee as a 24/7 sales and scheduling assistant for local businesses, Smith.ai sells AI receptionist plans, and OpenPhone includes AI-enabled business phone workflows. 
+- Inbound lead volume is increasingly fragmented across calls, chat, social, and messaging apps, making manual handling harder for small teams. Podium explicitly markets AI for lead handling, customer communication, and appointment booking across local-business workflows. 
 - Clinics and other service SMBs already understand the ROI logic: even a small increase in booked appointments can justify monthly spend because the value of one recovered customer often exceeds software cost.
 
 **Access path:**
@@ -83,8 +83,8 @@ The highest-friction moment is **between inbound inquiry and confirmed booking**
 - **Owner frustration:** hard to know how many leads were lost due to poor responsiveness rather than weak demand
 
 **Evidence / proxy evidence:**
-- **Fact:** Existing vendors are already selling AI receptionist / AI employee products to local businesses for this exact operational zone: answering inquiries, booking appointments, and handling overflow demand. citeturn751355search4turn751355search2turn751355search15turn751355search0
-- **Inference from market behavior:** If businesses are already paying for AI call handling and booking assistance, the pain is operationally real and budget-worthy. This is an inference based on active pricing and product positioning, not proof specific to dental clinics. citeturn751355search1turn751355search12turn751355search15
+- **Fact:** Existing vendors are already selling AI receptionist / AI employee products to local businesses for this exact operational zone: answering inquiries, booking appointments, and handling overflow demand.
+- **Inference from market behavior:** If businesses are already paying for AI call handling and booking assistance, the pain is operationally real and budget-worthy. This is an inference based on active pricing and product positioning, not proof specific to dental clinics. 
 
 **Why underserved:**
 - Generic chatbots answer FAQs but often do not drive to booked appointment as the main outcome
@@ -110,8 +110,8 @@ The highest-friction moment is **between inbound inquiry and confirmed booking**
 - **Poor visibility:** owners cannot easily see which campaigns generate booked revenue vs. just conversations
 
 **Evidence / proxy evidence:**
-- **Fact:** Podium frames its AI Employee around lead management, conversion, scheduling, and customer communication rather than only answering FAQs. citeturn751355search1turn751355search4
-- **Fact:** Smith.ai highlights lead screening, intake, appointment booking, and CRM integration in its commercial offering. citeturn751355search5turn751355search2
+- **Fact:** Podium frames its AI Employee around lead management, conversion, scheduling, and customer communication rather than only answering FAQs.
+- **Fact:** Smith.ai highlights lead screening, intake, appointment booking, and CRM integration in its commercial offering. 
 - **Inference:** The presence of CRM integration and follow-up workflows in adjacent products suggests the market values not just first response, but full lead progression.
 
 **Why underserved:**
@@ -171,7 +171,7 @@ We should separate **broad opportunity** from **entry segment**.
 All appointment-based SMBs globally or regionally that can justify monthly spend to improve inbound lead conversion.
 
 **Fact anchor:**
-There are already multiple active vendors selling AI-assisted customer communication, receptionist, and support products to SMBs and mid-market businesses, with monthly SaaS pricing and add-on AI pricing models. That strongly suggests the overall category is commercially real, not hypothetical. citeturn751355search12turn751355search15turn751355search0
+There are already multiple active vendors selling AI-assisted customer communication, receptionist, and support products to SMBs and mid-market businesses, with monthly SaaS pricing and add-on AI pricing models. That strongly suggests the overall category is commercially real, not hypothetical. 
 
 **SAM (initial practical market):**
 Urban private clinics and similar high-intent service businesses where:
@@ -185,8 +185,7 @@ A narrow group of dental clinics acquired through direct sales + agency/channel 
 ### Pricing logic
 
 **Assumption:**
-A realistic starting model is monthly B2B pricing, because adjacent products in the market already charge recurring subscription fees for AI support, phone, or receptionist workflows. OpenPhone publicly sits in a roughly tens-of-dollars-per-user-per-month range, Smith.ai AI Receptionist starts from a monthly plan, and Zendesk monetizes AI as an add-on to a broader support stack. citeturn751355search0turn751355search15turn751355search12
-
+A realistic starting model is monthly B2B pricing, because adjacent products in the market already charge recurring subscription fees for AI support, phone, or receptionist workflows. OpenPhone publicly sits in a roughly tens-of-dollars-per-user-per-month range, Smith.ai AI Receptionist starts from a monthly plan, and Zendesk monetizes AI as an add-on to a broader support stack.
 **Implication:**
 This means SMB buyers are already trained to think in monthly software cost, which improves willingness-to-pay versus trying to invent an unfamiliar pricing model.
 
@@ -200,10 +199,10 @@ This means SMB buyers are already trained to think in monthly software cost, whi
 ## 7. Competitive Landscape & SOM Capture Strategy
 
 **Existing players (adjacent market):**
-- **Podium AI Employee** — positioned around lead generation, management, conversion, scheduling, and customer communication for local businesses. citeturn751355search1turn751355search4
-- **Smith.ai AI Receptionist** — positioned around AI-first call handling with lead screening, intake, booking, and optional human backup. citeturn751355search2turn751355search5turn751355search15
-- **OpenPhone** — business phone system with AI-enabled workflows at SMB-friendly pricing. citeturn751355search0
-- **Zendesk** — broader CX/support stack where AI is monetized inside a more complex support platform. citeturn751355search12turn751355search16
+- **Podium AI Employee** — positioned around lead generation, management, conversion, scheduling, and customer communication for local businesses. 
+- **Smith.ai AI Receptionist** — positioned around AI-first call handling with lead screening, intake, booking, and optional human backup. 
+- **OpenPhone** — business phone system with AI-enabled workflows at SMB-friendly pricing. 
+- **Zendesk** — broader CX/support stack where AI is monetized inside a more complex support platform.
 
 **Our wedge:**
 We should not compete as “another general AI receptionist.”
@@ -249,7 +248,7 @@ That means:
 - The user base is broad at the category level: many appointment-based SMBs share the same revenue leak
 - The early segment can still be narrow and sharp, which fits the handbook’s requirement for a good first customer definition
 - The pain is visible in operations and tied to money, which makes willingness-to-pay more credible than “nice-to-have productivity” tools
-- Existing vendors validate that SMBs already buy AI-assisted communication and receptionist products today. citeturn751355search1turn751355search2turn751355search12
+- Existing vendors validate that SMBs already buy AI-assisted communication and receptionist products today. 
 - The category still leaves room for a more outcome-specific wedge focused on conversion and revenue recovery rather than generic support automation
 
 **Main risk:**

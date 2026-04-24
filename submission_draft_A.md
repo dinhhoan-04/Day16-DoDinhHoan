@@ -310,10 +310,10 @@ Why:
 ## 12. Facts / Assumptions / Unknowns
 
 ### Facts
-- The Day 16 handbook explicitly requires teams to separate facts, assumptions, and unknowns rather than invent precise numbers without logic. citeturn557875view4
-- The handbook also frames the workshop around the chain Idea → Customer → Need → Strategy → Moat → Market Size, which this submission follows. citeturn557875view1
-- The sample submission uses sections for idea, segment, need map, strategy, moat, market view, judgment, and self-assessment, which shaped the structure of this draft. citeturn557875view5turn557875view7turn742995view6
-- Adjacent market products already exist and are sold commercially: Podium AI Employee, Smith.ai AI Receptionist, OpenPhone, and Zendesk AI-related plans. citeturn751355search1turn751355search2turn751355search15turn751355search12
+- The Day 16 handbook explicitly requires teams to separate facts, assumptions, and unknowns rather than invent precise numbers without logic.
+- The handbook also frames the workshop around the chain Idea → Customer → Need → Strategy → Moat → Market Size, which this submission follows. 
+- The sample submission uses sections for idea, segment, need map, strategy, moat, market view, judgment, and self-assessment, which shaped the structure of this draft. 
+- Adjacent market products already exist and are sold commercially: Podium AI Employee, Smith.ai AI Receptionist, OpenPhone, and Zendesk AI-related plans. 
 
 ### Assumptions
 - Dental clinics are a better first wedge than other appointment-based SMBs
